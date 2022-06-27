@@ -1,0 +1,17 @@
+C:\Users\forev\source\repos\Calendar\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\forev\source\repos\Calendar\Calendar\bin\Debug\Calendar.exe
+C:\Users\forev\source\repos\Calendar\Calendar\bin\Debug\Calendar.pdb
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.exe
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.UserControlBlank.resources
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.UserControlDays.resources
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+C:\Users\forev\source\repos\Calendar\Calendar\bin\Debug\MySql.Data.dll
+C:\Users\forev\source\repos\Calendar\Calendar\bin\Debug\System.Memory.dll
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.csproj.CopyComplete
+C:\Users\forev\source\repos\Calendar\Calendar\obj\Debug\Calendar.UserControlWeekend.resources
